@@ -1,0 +1,11 @@
+app:
+  env: 'dev'
+  app_name: 'gin-vue-deploy'
+  addr: '8889'
+
+
+harbor:
+  host: 'http://xxxxx'
+  port: "xxxx"
+  username: "xxx"
+  password: "xxxxxxx"
